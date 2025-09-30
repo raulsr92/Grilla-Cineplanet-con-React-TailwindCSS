@@ -43,7 +43,6 @@ function LayoutCine() {
                     </div>
                     
                 </article>
-
             </section>
 
         </>

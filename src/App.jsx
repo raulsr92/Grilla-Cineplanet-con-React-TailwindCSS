@@ -1,6 +1,7 @@
 
 import './App.css'
 import FavoriteColor from './components/FavoriteColor'
+import HomeCinemark from './components/HomeCinemark'
 import LayoutCine from './components/LayoutCine'
 import Toolbar from "./components/Toolbar"
 
@@ -22,6 +23,8 @@ function App() {
       <FavoriteColor/>
       */}
       <LayoutCine/>
+
+      <HomeCinemark/>
     </>
   )
 }
